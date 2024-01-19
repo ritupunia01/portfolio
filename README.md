@@ -16,5 +16,5 @@ A great professional looking and fully responsive personal website to showcase m
 ```
 ## Author
 
-Email - ritupunia1203@gmail.com \ 
+Email - ritupunia1203@gmail.com \
 Portfolio - https://ritupunia.vercel.app/
